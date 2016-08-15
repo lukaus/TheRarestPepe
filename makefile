@@ -5,7 +5,7 @@ EXEC = pepe
 PREFIX = /usr/local
 BINDIR = $(PREFIX)/bin
 
-p1: $(OBJS)
+pepe: $(OBJS)
 	$(CC) $(OBJS) -$(LIBS) -o $(EXEC)
 
 install:
