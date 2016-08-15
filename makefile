@@ -1,5 +1,5 @@
-CC = g++
-OBJS = pepe.cpp
+CC = gcc
+OBJS = pepe.c
 LIBS = lncurses
 EXEC = pepe
 PREFIX = /usr/local
