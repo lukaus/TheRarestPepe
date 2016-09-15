@@ -1,6 +1,11 @@
 # TheRarestPepe
 Feels good man
 
+EDIT: I have been informed by NBC that Pepe the Frog is a symbol of white supremacy
+
+http://www.nbcnews.com/politics/2016-election/trump-adviser-son-post-image-trump-s-deplorables-featuring-white-n646431
+
+I apologize, I had no idea this was the case. Please don't copy pasterino this meme as it is used only by neo nazis
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
